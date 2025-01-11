@@ -63,9 +63,9 @@ Users should be able to:
 
   
 
--  Solution URL: [Add solution URL here](https://your-solution-url.com)
+-  Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/launch-countdown-timer-solution-ElFcA-kVmR)
 
--  Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-  Live Site URL: [Github Pages](https://pex-dev.github.io/launch-countdown-timer/)
 
   
 
